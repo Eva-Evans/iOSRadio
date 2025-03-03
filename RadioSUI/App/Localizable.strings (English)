@@ -1,0 +1,6 @@
+"select_radio_station" = "Select radio station to play";
+"radios" = "Radios";
+"favorites" = "Favorites";
+"playing" = "Playing: %@";
+"paused" = "Paused: %@";
+"no_radios" = "No available radios.";
